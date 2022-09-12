@@ -5,5 +5,5 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 #IfWinActive, Chrome
 {
-	F6::F5
+	F6::F7
 }
